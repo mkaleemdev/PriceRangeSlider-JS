@@ -26,4 +26,22 @@ An interactive and fully functional **Price Range Slider** built using **HTML**,
 
 ---
 
+## 🚀 How It Works
+
+1. User sets minimum and maximum values via input fields **or** sliders.
+2. The slider updates in real-time with smooth transition.
+3. Validation ensures:
+   - Min value ≤ Max value
+   - Both within allowed range
+4. Outputs update dynamically — ideal for use in filtering product lists.
+
+---
+
+## 💻 Use Cases
+
+- 🛒 E-commerce filters (e.g., "Price: ₹500 - ₹1500")
+- 🎛️ Dashboard tools with budget controls
+- 🎯 Product search with price limits
+
+---
 
